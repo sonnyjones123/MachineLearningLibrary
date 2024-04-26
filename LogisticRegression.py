@@ -1,6 +1,5 @@
 #CS 6350 Machine Learning
 #Written by Sonny Jones, 04/10/2024
-#Homework 6: SVM and Logistic Regression
 
 import numpy as np
 import pandas as pd
